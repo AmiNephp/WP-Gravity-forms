@@ -1,2 +1,2 @@
-# WP-Gravity-forms
+# WP / Gravity-forms
 Gravity-forms
